@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lokeshr7
-- 👀 I’m interested in web and mobile application development, and also in the world of Blockchain.
-- 🌱 I’m currently learning a lot of things in grad school at UIC.
+- 👋 Hi, I’m Lokesh.
+- 👀 I’m interested in web and mobile application development, and also in the world of Blockchain and Quantum Computing.
+- 🌱 I go to grad school at UIC majoring in Computer Science.
 - 📫 You can contact me through email at r.lokesh98@gmail.com.
 
 <!---
